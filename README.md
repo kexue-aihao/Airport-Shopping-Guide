@@ -21,3 +21,9 @@ https://github.com/kexue-aihao/Airport-Shopping-Guide/tree/master/Airport%20know
 https://github.com/kexue-aihao/Airport-Shopping-Guide/tree/master/Airport
 
 -------------------------------
+
+## 黑名单列表直达地址
+
+https://github.com/kexue-aihao/Airport-Shopping-Guide/tree/master/Blacklist
+
+-------------------------------
