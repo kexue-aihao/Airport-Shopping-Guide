@@ -24,7 +24,7 @@ VPS类型：正价落地+隧道转发
 
 后端测速图：
 
-无
+![image](https://github.com/kexue-aihao/Airport-Shopping-Guide/blob/master/Picture/Zoomm/Zoomm%E6%B5%8B%E9%80%9F%E5%9B%BE.jpg?raw=true)
 
 -------------------------
 
