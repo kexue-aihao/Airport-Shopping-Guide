@@ -42,7 +42,7 @@ https://github.com/kexue-aihao/Airport-Shopping-Guide/tree/master/Airport/%E6%9C
 
 --------------------------
 
-5.Zoomm直达链接
+6.Zoomm直达链接
 
 https://github.com/kexue-aihao/Airport-Shopping-Guide/tree/master/Airport/Zoomm
 
