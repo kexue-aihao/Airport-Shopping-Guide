@@ -43,3 +43,9 @@ https://github.com/kexue-aihao/Airport-Shopping-Guide/wiki/%E5%B8%B8%E8%A7%81%E9
 https://github.com/kexue-aihao/Airport-Shopping-Guide/wiki/%E5%AE%9A%E5%88%B6%E7%BA%BF%E8%B7%AF%E7%94%B5%E5%AD%90%E9%82%AE%E4%BB%B6%E6%A0%B7%E6%9C%AC
 
 -------------------------------
+
+## 机场讨论话题区直达地址：
+
+https://github.com/kexue-aihao/Airport-Shopping-Guide/discussions/2
+
+-------------------------------
