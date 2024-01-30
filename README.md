@@ -33,3 +33,13 @@ https://github.com/kexue-aihao/Airport-Shopping-Guide/tree/master/Blacklist
 https://github.com/kexue-aihao/Airport-Shopping-Guide/wiki/%E5%B8%B8%E8%A7%81%E9%97%AE%E9%A2%98%E7%B4%A2%E5%BC%95%E7%9B%AE%E5%BD%95
 
 -------------------------------
+
+## 定制线路请通过电子邮件联系
+
+    Ahhrt@proton.me
+
+定制线路电子邮件样本直达地址：
+
+https://github.com/kexue-aihao/Airport-Shopping-Guide/wiki/%E5%AE%9A%E5%88%B6%E7%BA%BF%E8%B7%AF%E7%94%B5%E5%AD%90%E9%82%AE%E4%BB%B6%E6%A0%B7%E6%9C%AC
+
+-------------------------------
