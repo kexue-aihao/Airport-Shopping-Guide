@@ -50,6 +50,6 @@ VPS类型：正价落地+运营商优化
 
 节点协议：
 
-Shadowsocks
+Shadowsocks、vmess
 
 -------------------------
