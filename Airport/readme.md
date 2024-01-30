@@ -34,8 +34,18 @@ https://github.com/kexue-aihao/Airport-Shopping-Guide/tree/master/Airport/%E6%B5
 
 --------------------------
 
-5.木头云
+5.木头云直达链接
 
 https://github.com/kexue-aihao/Airport-Shopping-Guide/tree/master/Airport/%E6%9C%A8%E5%A4%B4%E4%BA%91
 
 --------------------------
+
+--------------------------
+
+5.Zoomm直达链接
+
+https://github.com/kexue-aihao/Airport-Shopping-Guide/tree/master/Airport/Zoomm
+
+--------------------------
+
+
