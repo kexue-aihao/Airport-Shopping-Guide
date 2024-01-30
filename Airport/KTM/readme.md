@@ -12,6 +12,8 @@ VPS类型：正价落地+隧道转发
 
 节点质量：优
 
+是否强制启用邀请制：否
+
 -------------------------
 
 节点延迟测试图1：
@@ -35,3 +37,13 @@ VPS类型：正价落地+隧道转发
 KTM CDN测试图:
 
 ![image](https://github.com/kexue-aihao/Airport-Shopping-Guide/blob/master/Picture/KTM/KTM%20CDN%E6%B5%8B%E8%AF%95%E5%9B%BE.png?raw=true)
+
+-------------------------
+
+-------------------------
+
+节点协议：
+
+Shadowssocks
+
+-------------------------
