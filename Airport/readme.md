@@ -48,4 +48,11 @@ https://github.com/kexue-aihao/Airport-Shopping-Guide/tree/master/Airport/Zoomm
 
 --------------------------
 
+--------------------------
+
+7.Zoomm直达链接
+
+https://github.com/kexue-aihao/Airport-Shopping-Guide/tree/master/Airport/YYTS
+
+--------------------------
 
