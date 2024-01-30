@@ -27,3 +27,9 @@ https://github.com/kexue-aihao/Airport-Shopping-Guide/tree/master/Airport
 https://github.com/kexue-aihao/Airport-Shopping-Guide/tree/master/Blacklist
 
 -------------------------------
+
+## 国内用到需要翻墙的软件的一些常见问题直达地址
+
+https://github.com/kexue-aihao/Airport-Shopping-Guide/wiki/%E5%B8%B8%E8%A7%81%E9%97%AE%E9%A2%98%E7%B4%A2%E5%BC%95%E7%9B%AE%E5%BD%95
+
+-------------------------------
