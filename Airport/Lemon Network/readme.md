@@ -4,7 +4,7 @@
 
 Lemon Network
 
-VPS类型：
+VPS类型：未知
 
 直连：是
 
