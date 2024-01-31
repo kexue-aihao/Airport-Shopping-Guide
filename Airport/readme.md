@@ -96,6 +96,13 @@ https://github.com/kexue-aihao/Airport-Shopping-Guide/tree/master/Airport/%E4%BA
 
 --------------------------
 
+--------------------------
+
+13.贤者云VPN
+
+https://github.com/kexue-aihao/Airport-Shopping-Guide/tree/master/Airport/%E8%B4%A4%E8%80%85%E4%BA%91VPN
+
+--------------------------
 
 
 
