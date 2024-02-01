@@ -1,8 +1,8 @@
-# KTM cloud
+# KTM
 
 -------------------------
 
-KTM cloud
+KTM
 
 VPS类型：正价落地+隧道转发
 
@@ -10,7 +10,7 @@ VPS类型：正价落地+隧道转发
 
 中转：是
 
-节点质量：优
+节点质量：不错
 
 是否强制启用邀请制：否
 
@@ -34,16 +34,26 @@ VPS类型：正价落地+隧道转发
 
 -------------------------
 
-KTM CDN测试图:
+ CDN测试图:
 
 ![image](https://github.com/kexue-aihao/Airport-Shopping-Guide/blob/master/Picture/KTM/KTM%20CDN%E6%B5%8B%E8%AF%95%E5%9B%BE.png?raw=true)
 
 -------------------------
 
+流媒体解锁图:
+
+![image](https://github.com/kexue-aihao/Airport-Shopping-Guide/blob/master/Picture/KTM/KTM%E8%A7%A3%E9%94%81%E5%9B%BE.png?raw=true)
+
+-------------------------
+
+线路拓扑图:
+    
+无
+
 -------------------------
 
 节点协议：
 
-Shadowssocks
+Shadowsocks
 
 -------------------------
