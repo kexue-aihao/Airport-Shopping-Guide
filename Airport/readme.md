@@ -146,7 +146,9 @@ https://github.com/kexue-aihao/Airport-Shopping-Guide/tree/master/Airport/%E5%88
 
 --------------------------
 
+19.肯德基机场
 
+https://github.com/kexue-aihao/Airport-Shopping-Guide/tree/master/Airport/%E8%82%AF%E5%BE%B7%E5%9F%BA%E6%9C%BA%E5%9C%BA
 
 --------------------------
 
