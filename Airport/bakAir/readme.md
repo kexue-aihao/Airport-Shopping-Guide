@@ -36,7 +36,7 @@ VPS类型：未知
 
  CDN测试图:
 
-![image](/Picture/bakAir/bakAir cdn.png)
+![image](/Picture/bakAir/bakAir.png)
 
 -------------------------
 
