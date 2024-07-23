@@ -36,7 +36,7 @@ VPS类型：月抛
 
  CDN测试图:
 
-![image](https://github.com/kexue-aihao/Airport-Shopping-Guide/blob/master/Picture/%E4%B8%80%E5%88%86%E6%9C%BA%E5%9C%BA/%E4%B8%80%E5%88%86%E6%9C%BA%E5%9C%BA%20cdn.png?raw=true)
+![image](/picture/一分机场/一分机场 cdn.png)
 
 -------------------------
 
