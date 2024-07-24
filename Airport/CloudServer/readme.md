@@ -1,14 +1,14 @@
-# 365Cloud
+# CloudServer
 
 -------------------------
 
-365Cloud
+CloudServer
 
-直连：否
+直连：是
 
-中转：是
+中转：否
 
-节点质量：很不错
+节点质量：比较好
 
 是否强制启用邀请制：否
 
@@ -16,36 +16,36 @@
 
 节点连通性测试图：
 
-![image](/img/17.png)
+![image](/img/25.png)
 
 -------------------------
 
 邀请链接：[复制该地址到浏览器，粘贴打开即可]
 
-    https://www.365cloud.me/#/register?code=9tO2ZOdY
+    https://newserver.t1i.top/#/register?code=Ks0yA0jO
 
 -------------------------
 
-365Cloud节点测速图:
+CloudServer节点测速图:
 
-![image](/img/18.png)
-
--------------------------
-
-365Cloud线路拓扑图:
-
-![image](/img/19.png)
+![image](/img/26.png)
 
 -------------------------
 
-365Cloud流媒体解锁图:
+CloudServer线路拓扑图:
 
-![image](/img/20.png)
+![image](/img/27.png)
+
+-------------------------
+
+CloudServer流媒体解锁图:
+
+![image](/img/28.png)
 
 -------------------------
 
 节点协议：
 
-Shadowsocks
+Shadowsocks、vmess、Hysteria2
 
 -------------------------
