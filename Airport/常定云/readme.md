@@ -12,6 +12,10 @@
 
 是否强制启用邀请制：否
 
+机场八一建军节活动优惠码:
+
+    97年建军
+
 -------------------------
 
 节点连通性测试图：
@@ -47,5 +51,35 @@
 节点协议：
 
 vmess
+
+-------------------------
+
+## 机场套餐价格预览:
+
+![image](/price/cdy/1.png)
+
+![image](/price/cdy/2.png)
+
+![image](/price/cdy/3.png)
+
+![image](/price/cdy/4.png)
+
+![image](/price/cdy/5.png)
+
+![image](/price/cdy/6.png)
+
+![image](/price/cdy/7.png)
+
+![image](/price/cdy/8.png)
+
+![image](/price/cdy/9.png)
+
+![image](/price/cdy/10.png)
+
+![image](/price/cdy/11.png)
+
+![image](/price/cdy/12.png)
+
+![image](/price/cdy/13.png)
 
 -------------------------
