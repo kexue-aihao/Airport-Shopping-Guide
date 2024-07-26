@@ -4,13 +4,17 @@
 
 Suda VPN
 
-直连：未知
+直连：是
 
 中转：未知
 
 节点质量：麻麻地
 
 是否强制启用邀请制：否
+
+节点点评:
+
+    速度是挺不错的，纯台湾节点，但是谨慎入手，机场主好像是台湾人
 
 -------------------------
 
@@ -49,5 +53,41 @@ Suda VPN流媒体解锁图:
 节点协议：
 
 Trojan、vless
+
+-------------------------
+
+机场套餐预览图:
+
+![image](/price/SudaVPN/1.png)
+
+![image](/price/SudaVPN/2.png)
+
+![image](/price/SudaVPN/3.png)
+
+![image](/price/SudaVPN/4.png)
+
+![image](/price/SudaVPN/5.png)
+
+![image](/price/SudaVPN/6.png)
+
+![image](/price/SudaVPN/7.png)
+
+![image](/price/SudaVPN/8.png)
+
+![image](/price/SudaVPN/9.png)
+
+![image](/price/SudaVPN/10.png)
+
+![image](/price/SudaVPN/11.png)
+
+![image](/price/SudaVPN/12.png)
+
+![image](/price/SudaVPN/13.png)
+
+![image](/price/SudaVPN/14.png)
+
+![image](/price/SudaVPN/15.png)
+
+![image](/price/SudaVPN/16.png)
 
 -------------------------

@@ -12,6 +12,10 @@ gogocloud
 
 是否强制启用邀请制：否
 
+节点点评:
+
+    不错的节点质量
+
 -------------------------
 
 节点连通性测试图[免费试用节点测速]：
@@ -46,6 +50,22 @@ gogocloud流媒体解锁图:
 
 节点协议：
 
-vmess
+vmess、shadowsocks
+
+-------------------------
+
+机场价格预览图:
+
+![image](/price/gogocloud/1.png)
+
+![image](/price/gogocloud/2.png)
+
+![image](/price/gogocloud/3.png)
+
+![image](/price/gogocloud/4.png)
+
+![image](/price/gogocloud/5.png)
+
+![image](/price/gogocloud/6.png)
 
 -------------------------

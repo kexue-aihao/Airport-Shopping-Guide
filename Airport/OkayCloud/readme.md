@@ -12,6 +12,10 @@ OkayCloud
 
 是否强制启用邀请制：否
 
+节点点评：
+
+    节点速度很不错，油管有送中两个，可以免广告
+
 -------------------------
 
 节点连通性测试图：
@@ -47,5 +51,27 @@ OkayCloud流媒体解锁图:
 节点协议：
 
 shadowsocks
+
+-------------------------
+
+机场套餐预览图:
+
+![image](/price/OkayCloud/1.png)
+
+![image](/price/OkayCloud/2.png)
+
+![image](/price/OkayCloud/3.png)
+
+![image](/price/OkayCloud/4.png)
+
+![image](/price/OkayCloud/5.png)
+
+![image](/price/OkayCloud/6.png)
+
+![image](/price/OkayCloud/7.png)
+
+![image](/price/OkayCloud/8.png)
+
+![image](/price/OkayCloud/9.png)
 
 -------------------------

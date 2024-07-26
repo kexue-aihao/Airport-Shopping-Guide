@@ -20,6 +20,10 @@
 
     hxvip88
 
+节点点评:
+
+    不错的节点质量
+
 -------------------------
 
 节点连通性测试图：
@@ -55,5 +59,19 @@
 节点协议：
 
 vmess、Shadowsocks
+
+-------------------------
+
+机场套餐预览图:
+
+![image](/price/hx/1.png)
+
+![image](/price/hx/2.png)
+
+![image](/price/hx/3.png)
+
+![image](/price/hx/4.png)
+
+![image](/price/hx/5.png)
 
 -------------------------
