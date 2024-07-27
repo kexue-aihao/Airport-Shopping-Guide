@@ -116,6 +116,10 @@ https://github.com/kexue-aihao/Airport-Shopping-Guide/tree/master/Airport/KTM%20
 
 -------------------------
 
+20.自由鸟
+
+https://github.com/kexue-aihao/Airport-Shopping-Guide/tree/master/Airport/%E8%87%AA%E7%94%B1%E9%B8%9F
+
 -------------------------
 
 -------------------------
