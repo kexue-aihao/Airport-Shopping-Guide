@@ -110,6 +110,10 @@ https://github.com/kexue-aihao/Airport-Shopping-Guide/tree/master/Airport/Skyboa
 
 -------------------------
 
+19.KTM Cloud
+
+https://github.com/kexue-aihao/Airport-Shopping-Guide/tree/master/Airport/KTM%20Cloud
+
 -------------------------
 
 -------------------------
