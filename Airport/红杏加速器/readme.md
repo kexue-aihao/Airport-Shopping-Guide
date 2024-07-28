@@ -74,4 +74,14 @@ vmess、Shadowsocks
 
 ![image](/price/hx/5.png)
 
+![image](/price/hx/6.png)
+
+![image](/price/hx/7.png)
+
+![image](/price/hx/8.png)
+
+![image](/price/hx/9.png)
+
+![image](/price/hx/10.png)
+
 -------------------------
