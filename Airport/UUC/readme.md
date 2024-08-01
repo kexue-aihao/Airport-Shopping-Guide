@@ -50,7 +50,7 @@ UUC流媒体解锁图:
 
 节点协议：
 
-shadowsocks
+shadowsocks、vmess
 
 -------------------------
 

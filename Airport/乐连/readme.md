@@ -50,7 +50,7 @@
 
 节点协议：
 
-shadowsocks
+shadowsocks、Trojan
 
 -------------------------
 
