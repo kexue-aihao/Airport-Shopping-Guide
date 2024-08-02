@@ -70,4 +70,8 @@
 
 > https://github.com/kexue-aihao/Airport-Shopping-Guide/tree/master/Airport/%E9%9D%92%E4%BA%91%E6%A2%AF
 
+5.飞天猪
+
+> https://github.com/kexue-aihao/Airport-Shopping-Guide/tree/master/Airport/%E9%A3%9E%E5%A4%A9%E7%8C%AA
+
 -------------------------
