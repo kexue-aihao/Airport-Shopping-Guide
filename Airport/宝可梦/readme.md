@@ -26,7 +26,7 @@
 
 邀请链接：[复制该地址到浏览器，粘贴打开即可]
 
-    https://ktmclub.club/#/register?code=0xZqmOLo
+    https://love.52pokemon.cc/#/sign-up?code=infU3gX6
 
 -------------------------
 
