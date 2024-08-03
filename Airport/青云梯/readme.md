@@ -25,7 +25,7 @@
 
 邀请链接：[复制该地址到浏览器，粘贴打开即可]
 
-    https://ktmclub.club/#/register?code=0xZqmOLo
+    https://qytcc01.qingyunti.pro/register?aff=llbG074z
 
 -------------------------
 
