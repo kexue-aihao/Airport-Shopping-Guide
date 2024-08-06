@@ -34,9 +34,57 @@
 
 -------------------------
 
-常定云节点测速图:
+常定云常规组测速图:
 
 ![image](/img/6.png)
+
+常定云移动组[深圳移动500M测速4线程]
+
+![image](/img/131.png)
+
+常定云移动组[深圳移动500M测速1线程]
+
+![image](/img/140.png)
+
+常定云电信组[深圳电信2G测速8线程]
+
+![image](/img/132.png)
+
+常定云电信组[深圳电信2G测速1线程]
+
+![image](/img/141.png)
+
+常定云联通组[珠海联通9G测速16线程]
+
+![image](/img/133.png)
+
+常定云联通组[珠海联通9G测速1线程]
+
+![image](/img/142.png)
+
+常定云AT组移动[深圳移动500M测速4线程]
+
+![image](/img/134.png)
+
+常定云AT组移动[深圳移动500M测速1线程]
+
+![image](/img/135.png)
+
+常定云AT组电信[深圳电信2G测速8线程]
+
+![image](/img/136.png)
+
+常定云AT组电信[深圳电信2G测速1线程]
+
+![image](/img/137.png)
+
+常定云AT组联通[珠海联通9G测速16线程]
+
+![image](/img/138.png)
+
+常定云AT组联通[珠海联通9G测速1线程]
+
+![image](/img/139.png)
 
 -------------------------
 
@@ -73,17 +121,5 @@ vmess
 ![image](/price/cdy/6.png)
 
 ![image](/price/cdy/7.png)
-
-![image](/price/cdy/8.png)
-
-![image](/price/cdy/9.png)
-
-![image](/price/cdy/10.png)
-
-![image](/price/cdy/11.png)
-
-![image](/price/cdy/12.png)
-
-![image](/price/cdy/13.png)
 
 -------------------------
