@@ -30,7 +30,7 @@
 
 邀请链接：[复制该地址到浏览器，粘贴打开即可]
 
-    dashboard.moku.pro/#/login?code=Dn7p7a7t
+    https://tjsd.site/#/register?code=wBFC0LKT
 
 -------------------------
 
