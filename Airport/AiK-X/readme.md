@@ -22,7 +22,7 @@ AiK-X
 
 群组链接：
 
-> https://t.me/moku_cloud
+> https://t.me/AiKx11
 
 -------------------------
 
