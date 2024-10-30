@@ -266,6 +266,10 @@ https://github.com/kexue-aihao/Airport-Shopping-Guide/tree/master/Airport/%E6%82
 
 -------------------------
 
+45.AiK-X
+
+https://github.com/kexue-aihao/Airport-Shopping-Guide/tree/master/Airport/AiK-X
+
 -------------------------
 
 -------------------------
