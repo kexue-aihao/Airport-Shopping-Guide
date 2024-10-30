@@ -30,7 +30,7 @@
 
 邀请链接：[复制该地址到浏览器，粘贴打开即可]
 
-    https://帕克云.buzz/#/register?code=sH15Epd9
+    https://cloud.pakekeji.top#/register?code=abqGVVMl
 
 -------------------------
 
