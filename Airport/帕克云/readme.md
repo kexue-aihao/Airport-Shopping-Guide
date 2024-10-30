@@ -64,4 +64,8 @@ Shadowsocks
 
 ![image](/price/帕克云/2.png)
 
+![image](/price/帕克云/3.png)
+
+![image](/price/帕克云/4.png)
+
 -------------------------

@@ -64,14 +64,4 @@ Hysteria2
 
 ![image](/price/天际隧道/2.png)
 
-![image](/price/天际隧道/3.png)
-
-![image](/price/天际隧道/4.png)
-
-![image](/price/天际隧道/5.png)
-
-![image](/price/天际隧道/6.png)
-
-![image](/price/天际隧道/7.png)
-
 -------------------------
