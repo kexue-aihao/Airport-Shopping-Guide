@@ -278,6 +278,10 @@ https://github.com/kexue-aihao/Airport-Shopping-Guide/tree/master/Airport/%E6%9E
 
 -------------------------
 
+47.迅联
+
+https://github.com/kexue-aihao/Airport-Shopping-Guide/tree/master/Airport/%E8%BF%85%E8%81%94
+
 -------------------------
 
 -------------------------
