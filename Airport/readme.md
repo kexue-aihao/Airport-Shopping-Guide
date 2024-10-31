@@ -290,6 +290,10 @@ https://github.com/kexue-aihao/Airport-Shopping-Guide/tree/master/Airport/%E4%BC
 
 -------------------------
 
+49.豆豆加速器
+
+https://github.com/kexue-aihao/Airport-Shopping-Guide/tree/master/Airport/%E8%B1%86%E8%B1%86%E5%8A%A0%E9%80%9F%E5%99%A8
+
 -------------------------
 
 -------------------------
