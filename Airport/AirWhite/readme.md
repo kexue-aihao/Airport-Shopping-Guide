@@ -18,7 +18,7 @@ AirWhite
 
 群组链接：
 
-> https://airwhite.re/#/register?code=yZq2arA0
+> 暂无
 
 -------------------------
 
