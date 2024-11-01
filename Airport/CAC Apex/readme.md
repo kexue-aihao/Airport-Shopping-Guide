@@ -60,14 +60,14 @@ Trojan
 
 套餐价格预览图:
 
-![image](/price/CAC Apex/1.png)
+![image](/price/CACApex/1.png)
 
-![image](/price/CAC Apex/2.png)
+![image](/price/CACApex/2.png)
 
-![image](/price/CAC Apex/3.png)
+![image](/price/CACApex/3.png)
 
-![image](/price/CAC Apex/4.png)
+![image](/price/CACApex/4.png)
 
-![image](/price/CAC Apex/5.png)
+![image](/price/CACApex/5.png)
 
 -------------------------

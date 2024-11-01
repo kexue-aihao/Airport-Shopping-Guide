@@ -60,16 +60,16 @@ Shadowsocks、vless
 
 套餐价格预览图:
 
-![image](/price/X Cloud/1.png)
+![image](/price/XCloud/1.png)
 
-![image](/price/X Cloud/2.png)
+![image](/price/XCloud/2.png)
 
-![image](/price/X Cloud/3.png)
+![image](/price/XCloud/3.png)
 
-![image](/price/X Cloud/4.png)
+![image](/price/XCloud/4.png)
 
-![image](/price/X Cloud/5.png)
+![image](/price/XCloud/5.png)
 
-![image](/price/X Cloud/6.png)
+![image](/price/XCloud/6.png)
 
 -------------------------
